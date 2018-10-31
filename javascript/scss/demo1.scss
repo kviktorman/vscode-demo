@@ -1,0 +1,10 @@
+.main-div {
+  background-color: lightblue;
+  &-pragraph {
+    background-color: lightcoral;
+  }
+  &-pragraph--bold {
+    background-color: lightcoral;
+    font-weight:bold;
+  }
+}
