@@ -4,8 +4,9 @@ import com.mycompany.DAO.ObjectDAO;
 
 public class ObjectDemo {
 
-    public ObjectDemo(){
-        
-        ObjectDAO objectDAO = new ObjectDAO();
-    }
+  public ObjectDemo() {
+
+    ObjectDAO objectDAO = new ObjectDAO();
+    objectDAO.DoSomething();
+  }
 }
