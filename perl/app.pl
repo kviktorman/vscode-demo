@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 
+# example from http://www.perltutorial.org/perl-oop/
 use lib '/var/www/html/vscode-demo/perl';
 use ProductObject;
 

@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 # ProductObject.pm, a product as an object
+# example from http://www.perltutorial.org/perl-oop/
+
 
 package ProductObject;
  
