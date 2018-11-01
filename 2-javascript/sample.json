@@ -1,0 +1,11 @@
+{
+    "name": "value",
+    "array": [{
+        "elementId": 1,
+        "elementName": "name",
+        "subElement": [{
+            "subelementName": "someName",
+            "subelementId": 1
+        }]
+    }]
+}
