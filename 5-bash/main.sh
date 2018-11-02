@@ -21,3 +21,5 @@ function main()
 }
  
 main
+
+eval $(pwd)

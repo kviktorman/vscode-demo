@@ -1,3 +1,10 @@
 {
+<<<<<<< HEAD
   "java.configuration.updateBuildConfiguration": "interactive"
+=======
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "editor.detectIndentation": false,
+  "editor.wordWrap": "on"
+>>>>>>> d672db2b2b33e702477c156861e4e7405924e27d
 }
